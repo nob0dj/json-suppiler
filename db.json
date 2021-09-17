@@ -1,8 +1,22 @@
 {
   "posts": [
     {
-      "id": "shqekl",
-      "title": "hello json"
+      "id": "shqkel",
+      "title": "hello json",
+      "theme": [
+        {
+          "id": "light",
+          "main-color": "lightgray"
+        },
+        {
+          "id": "abcde",
+          "main-color": "reg/green/blue"
+        },
+        {
+          "id": "dark",
+          "main-color": "deepgray"
+        }
+      ]
     },
     {
       "id": "honggd",
