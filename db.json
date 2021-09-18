@@ -5,15 +5,15 @@
       "title": "hello json",
       "theme": [
         {
-          "id": "light",
+          "id": 0,
           "main-color": "lightgray"
         },
         {
-          "id": "abcde",
+          "id": 1,
           "main-color": "reg/green/blue"
         },
         {
-          "id": "dark",
+          "id": 2,
           "main-color": "deepgray"
         }
       ]
