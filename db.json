@@ -5,13 +5,13 @@
       "phone": "010-4002-1863",
       "email": "shqkel1863@gamil.com",
       "address": {
-        "street": '318 Tapscott Avenue',
-        "suite": '318',
-        "city": 'Otranto, Oklahoma',
-        "zipcode": '5714',
+        "street": "318 Tapscott Avenue",
+        "suite": "318",
+        "city": "Otranto, Oklahoma",
+        "zipcode": "5714",
         "geo": { 
-          "lat": '145.3841', 
-          "lng": '34.3452' 
+          "lat": "145.3841", 
+          "lng": "34.3452" 
         }
       }
     },
@@ -20,13 +20,13 @@
       "phone": "010-4002-1863",
       "email": "honggd@naver.com",
       "address": {
-        "street": 'Kulas Light',
-        "suite": 'Apt. 556',
-        "city": 'Gwenborough',
-        "zipcode": '92998-3874',
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
         "geo": { 
-          "lat": '-37.3159', 
-          "lng": '81.1496' 
+          "lat": "-37.3159", 
+          "lng": "81.1496" 
         }
       }
     },
